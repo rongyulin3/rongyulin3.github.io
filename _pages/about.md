@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Ron(Rongyu) Lin, a Visiting Assistant Professor in Computer Science at Clark University.
+I am Ron(Rongyu) Lin, currentlya Visiting Assistant Professor in Department of Computer Science at Clark University.
 
 I received my Ph.D. in Electrical and Computer Engineering from King Abdullah University of Science and Technology (KAUST) and an MBA with STEM concentration in Data Science from Santa Clara University. Before joining Clark, I was the Principal Data Scientist at Capital One.
 
