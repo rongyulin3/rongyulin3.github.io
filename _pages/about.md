@@ -32,12 +32,6 @@ My research interests lie in the intersection of artificial intelligence and its
 
 My research has been published in prestigious journals and conferences proceedings including Nature Communications, Journal of Physics, Journal of Materials Chemistry C, and ACL. I actively contribute to the scientific community as a reviewer or committee member for Transactions on Computational Science, Applied Intelligence, and Engineering Applications of Artificial Intelligence.
 
-## Research Impact
-My work bridges the gap between atomic-level calculations and device-scale simulations, enabling efficient exploration of complex design spaces. The frameworks I develop integrate multi-fidelity data generation with machine learning to accelerate semiconductor innovation, particularly in:
-- Device optimization and computational material discovery
-- Multi-agent learning systems for scientific exploration
-- Physics-informed neural networks for semiconductor modeling
-
 I am looking for highly motivated students who are interested in AI/ML applications in semiconductor design and computational materials science. If you are passionate about developing machine learning frameworks for scientific discovery, please email me your CV and research interests.
 
 I am open to research collaborations and discussions. Please feel free to reach out via email!
