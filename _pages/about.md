@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Department of Computer Science</a>. ronlin@clarku.edu
 
 profile:
   align: right
@@ -23,12 +23,12 @@ I am Ron(Rongyu) Lin, a Visiting Assistant Professor in Computer Science at Clar
 
 I received my Ph.D. in Electrical and Computer Engineering from King Abdullah University of Science and Technology (KAUST) and an MBA with STEM concentration in Data Science from Santa Clara University. Before joining Clark, I was the Principal Data Scientist at Capital One.
 
-My research focuses on the convergence of scientific computing with advanced learning systems in semiconductor engineering. I develop machine learning frameworks that enable:
+My research interests lie in the intersection of artificial intelligence and its applications across different domains. My current research focuses on:
 
-- **Multi-fidelity and Multi-agent Interactive Learning**: Integration of diverse data sources (imaging, spectroscopy, electrical measurements) with specialized learning agents for semiconductor design
+- **Multi-fidelity and Multi-agent Interactive Engineering**: Integration of diverse data sources (imaging, spectroscopy, electrical measurements) with specialized learning agents for semiconductor design
 - **Computational Materials Discovery**: Development of multi-fidelity tools for atomic-level material properties prediction and device-scale optimization
 - **Intelligent Design Automation**: Building knowledge-augmented frameworks for semiconductor system modeling and optimization
-- **Scientific Machine Learning**: Combining physics-informed neural networks with data-driven approaches for efficient exploration of complex design spaces
+- **AI Cross-domain Applications**: Leveraging AI/ML solutions across finance, education, healthcare, and other industrial sectors
 
 My research has been published in prestigious journals and conferences proceedings including Nature Communications, Journal of Physics, Journal of Materials Chemistry C, and ACL. I actively contribute to the scientific community as a reviewer or committee member for Transactions on Computational Science, Applied Intelligence, and Engineering Applications of Artificial Intelligence.
 
