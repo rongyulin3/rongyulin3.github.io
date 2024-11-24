@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Computer Science, Clark University</a>. ronlin@clarku.edu
+subtitle: Visiting Assistant Professor at <a href='https://www.clarku.edu/faculty/profiles/ron-lin/'>Department of Computer Science, Clark University</a>. ronlin@clarku.edu
 
 profile:
   align: right
