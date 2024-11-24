@@ -25,7 +25,7 @@ I received my Ph.D. in Electrical and Computer Engineering from King Abdullah Un
 
 My research interests lie in the intersection of artificial intelligence and its applications across different domains. My current research focuses on:
 
-- **Multi-fidelity and Multi-agent Interactive Engineering**: Integration of diverse data sources (imaging, spectroscopy, electrical measurements) with specialized learning agents for semiconductor design
+- **Multi-fidelity and Multi-agent Interactive Engineering**: Integration of large language models (LLMs) with domain-specific data (imaging, spectroscopy, electrical measurements) and specialized learning agents for intelligent semiconductor design and optimization.
 - **Computational Materials Discovery**: Development of multi-fidelity tools for atomic-level material properties prediction and device-scale optimization
 - **Intelligent Design Automation**: Building knowledge-augmented frameworks for semiconductor system modeling and optimization
 - **AI Cross-domain Applications**: Leveraging AI/ML solutions across finance, education, healthcare, and other industrial sectors
