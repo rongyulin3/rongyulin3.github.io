@@ -11,3 +11,11 @@ _posts/2015-10-20-math.md
 _sass/font-awesome/*.scss
 _sass/tabler-icons/*.scss
 CNAME
+_config.yml
+_news/**
+_pages/**
+_posts/**
+_projects/**
+assets/**
+.devcontainer/**
+README.md
