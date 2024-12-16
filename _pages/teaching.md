@@ -2,11 +2,19 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Current Teaching Information
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Current Semester (Spring 2025)
 
-Organize your courses by years, topics, or universities, however you like!
+### CSCI 160 - Algorithms
+- For any course-related questions, please contact the instructor directly via email.
+
+### CSCI 120 - Introduction to Computing  
+- For any course-related questions, please contact the instructor directly via email.
+
+---
+
+*Note: For specific questions about assignments, exams, and other course materials, please first refer to the course syllabus and course management system. For any additional inquiries, please contact the relevant instructor via email.*
