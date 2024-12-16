@@ -1,28 +1,42 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: members
 description: members of the lab or group
 nav: true
 nav_order: 7
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: about_ron.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Ron(Rongyu) Lin</p>
+      <p>Principal Investigator</p>
+      <p>MACD 332, Department of Computer Science</p>
+      <p>Clark University</p>
+      <p>950 Main Street</p>
+      <p>Worcester, MA 01610</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: prof_carol.jpg
+    content: about_carol.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Carol Chu</p>
+      <p>Graduate Research Assistant</p>
+  - align: left
+    image: prof_person.jpg
+    content: about_kadin.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Kadin Reed</p>
+      <p>Undergraduate Research Assistant</p>
+  - align: left
+    image: prof_person.jpg
+    content: about_kendall.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Kendall Lisa Codjoe</p>
+      <p>Undergraduate Research Assistant</p>
 ---
