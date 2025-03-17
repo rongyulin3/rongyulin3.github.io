@@ -26,7 +26,7 @@ profiles:
       <p>Carol Chu</p>
       <p>Graduate Research Assistant</p>
   - align: left
-    image: prof_person.jpg
+    image: Photo_Kadin.JPG
     content: about_kadin.md
     image_circular: false # crops the image to make it circular
     more_info: >
