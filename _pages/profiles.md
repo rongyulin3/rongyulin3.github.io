@@ -39,4 +39,25 @@ profiles:
     more_info: >
       <p>Kendall Lisa Codjoe</p>
       <p>Undergraduate Research Assistant</p>
+  - align: left
+    image: prof_person.jpg
+    content: about_terhorst.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Lucian Terhorst</p>
+      <p>Undergraduate Research Assistant</p>
+  - align: left
+    image: prof_person.jpg
+    content: about_khoso.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Samar Khoso</p>
+      <p>Undergraduate Research Assistant</p>
+  - align: left
+    image: prof_person.jpg
+    content: about_zaluski.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Matthew Zaluski</p>
+      <p>Undergraduate Research Assistant</p>
 ---
