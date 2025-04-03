@@ -60,4 +60,9 @@ profiles:
     more_info: >
       <p>Matthew Zaluski</p>
       <p>Undergraduate Research Assistant</p>
+  - align: center
+    image: group_photo.jpg
+    image_circular: false
+    more_info: >
+      <p>Group Photo</p>
 ---
