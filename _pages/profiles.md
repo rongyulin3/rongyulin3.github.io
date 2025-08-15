@@ -19,6 +19,7 @@ profiles:
       <p>Quinnipiac University</p>
       <p>275 Mt. Carmel Ave.</p>
       <p>Hamden, CT 06518, USA</p>
+      <p>rongyu.lin@qu.edu</p>
   - align: left
     image: prof_carol.jpg
     content: about_carol.md

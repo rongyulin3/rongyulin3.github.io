@@ -9,7 +9,7 @@ My research interests lie in the intersection of artificial intelligence and its
 - **Intelligent Design Automation**: Building knowledge-augmented frameworks for semiconductor system modeling and optimization
 - **AI Cross-domain Applications**: Leveraging AI/ML solutions across finance, education, healthcare, and other industrial sectors
 
-My research has been published in prestigious journals and conferences proceedings including Nature Communications, Journal of Physics, Journal of Materials Chemistry C, and ACL. I actively contribute to the scientific community as a reviewer or committee member for Transactions on Computational Science, Applied Intelligence, and Engineering Applications of Artificial Intelligence.
+My research has been published in prestigious journals and conferences proceedings including Nature, Nature Communications, Journal of Physics, Journal of Materials Chemistry C, and ACL. I actively contribute to the scientific community as a reviewer or committee member for Transactions on Computational Science, Applied Intelligence, and Engineering Applications of Artificial Intelligence.
 
 I am looking for highly motivated students who are interested in AI/ML applications in semiconductor design and computational materials science. If you are passionate about developing machine learning frameworks for scientific discovery, please email me your CV and research interests.
 
