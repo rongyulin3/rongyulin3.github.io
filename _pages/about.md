@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor of Computer Science at <a href='https://www.qu.edu/schools/engineering/faculty-staff/rongyu-lin/'>School of Computing & Engineering, Quinnipiac University</a>. rongyu.lin@qu.edu
+subtitle: Assistant Professor of Computer Science at School of Computing & Engineering, Quinnipiac University. rongyu.lin@qu.edu
 
 profile:
   align: right
