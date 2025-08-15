@@ -13,11 +13,12 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Ron(Rongyu) Lin</p>
-      <p>Principal Investigator</p>
-      <p>MACD 332, Department of Computer Science</p>
-      <p>Clark University</p>
-      <p>950 Main Street</p>
-      <p>Worcester, MA 01610</p>
+      <p style="margin-bottom: 20px;">Principal Investigator</p>
+      <p>CCE 233</p>
+      <p>School of Computing & Engineering</p>
+      <p>Quinnipiac University</p>
+      <p>275 Mt. Carmel Ave.</p>
+      <p>Hamden, CT 06518, USA</p>
   - align: left
     image: prof_carol.jpg
     content: about_carol.md
@@ -60,9 +61,18 @@ profiles:
     more_info: >
       <p>Matthew Zaluski</p>
       <p>Undergraduate Research Assistant</p>
-  - align: center
-    image: group_photo.jpg
-    image_circular: false
+  - align: left
+    image: prof_person.jpg
+    content: about_tom.md
+    image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Group Photo</p>
+      <p>Tom Ni</p>
+      <p>Undergraduate Research Assistant</p>
+  - align: left
+    image: prof_person.jpg
+    content: about_toral.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Toral Banerjee</p>
+      <p>Undergraduate Research Assistant</p>
 ---

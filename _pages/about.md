@@ -2,26 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: Visiting Assistant Professor at <a href='https://www.clarku.edu/faculty/profiles/ron-lin/'>Department of Computer Science, Clark University</a>. ronlin@clarku.edu
+subtitle: Assistant Professor of Computer Science at <a href='https://www.qu.edu/schools/engineering/faculty-staff/rongyu-lin/'>School of Computing & Engineering, Quinnipiac University</a>. rongyu.lin@qu.edu
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>MACD 332, Department of Computer Science</p>
-    <p>Clark University</p>
-    <p>950 Main Street</p>
-    <p>Worcester, MA 01610</p>
+    <p>Ron(Rongyu) Lin</p>
+    <p>Principal Investigator</p>
+    <br><br>
+    <p>CCE 233</p>
+    <p>School of Computing & Engineering</p>
+    <p>Quinnipiac University</p>
+    <p>275 Mt. Carmel Ave.</p>
+    <p>Hamden, CT 06518, USA</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Ron(Rongyu) Lin, currently a Visiting Assistant Professor in Department of Computer Science at Clark University.
+I am Ron(Rongyu) Lin, currently an Assistant Professor of Computer Science in the School of Computing & Engineering at Quinnipiac University. Before joining Quinnipiac University, I was a Visiting Assistant Professor in the Department of Computer Science at Clark University.
 
-I received my Ph.D. in Electrical and Computer Engineering from King Abdullah University of Science and Technology (KAUST) and an MBA with STEM concentration in Data Science from Santa Clara University. Before joining Clark, I was the Principal Data Scientist at Capital One.
+I received my Ph.D. in Electrical and Computer Engineering from King Abdullah University of Science and Technology (KAUST) and an MBA with STEM concentration in Data Science from Santa Clara University. Before joining academia, I was the Principal Data Scientist at Capital One.
 
 My research interests lie in the intersection of artificial intelligence and its applications across different domains. My current research focuses on:
 
@@ -35,3 +39,22 @@ My research has been published in prestigious journals and conferences proceedin
 I am looking for highly motivated students who are interested in AI/ML applications in semiconductor design and computational materials science. If you are passionate about developing machine learning frameworks for scientific discovery, please email me your CV and research interests.
 
 I am open to research collaborations and discussions. Please feel free to reach out via email!
+
+---
+
+## Our Research Group
+
+<div style="text-align: center; margin: 30px 0;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; max-width: 800px; margin: 0 auto;">
+    <div style="text-align: center;">
+      <img src="/assets/img/group_photo.jpg" alt="Our Research Group" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <p style="margin-top: 10px; font-style: italic; color: #666; font-size: 0.9em;">Our research team</p>
+    </div>
+    <!-- Add new photos here in the same format:
+    <div style="text-align: center;">
+      <img src="/assets/img/new_photo.jpg" alt="Description" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <p style="margin-top: 10px; font-style: italic; color: #666; font-size: 0.9em;">Photo description</p>
+    </div>
+    -->
+  </div>
+</div>

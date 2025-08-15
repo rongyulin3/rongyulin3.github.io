@@ -1,6 +1,6 @@
-I am Ron(Rongyu) Lin, currently a Visiting Assistant Professor in Department of Computer Science at Clark University.
+I am Ron(Rongyu) Lin, currently an Assistant Professor of Computer Science in the School of Computing & Engineering at Quinnipiac University.
 
-I received my Ph.D. in Electrical and Computer Engineering from King Abdullah University of Science and Technology (KAUST) and an MBA with STEM concentration in Data Science from Santa Clara University. Before joining Clark, I was the Principal Data Scientist at Capital One.
+I received my Ph.D. in Electrical and Computer Engineering from King Abdullah University of Science and Technology (KAUST) and an MBA with STEM concentration in Data Science from Santa Clara University. Before joining Quinnipiac University, I was a Visiting Assistant Professor in the Department of Computer Science at Clark University and prior to that, I was the Principal Data Scientist at Capital One.
 
 My research interests lie in the intersection of artificial intelligence and its applications across different domains. My current research focuses on:
 
